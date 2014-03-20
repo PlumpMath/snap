@@ -12,6 +12,14 @@ screenshot.)
 
 Allowed modes are `png`, `pdf`, `txt` and `html`.
 
+## running
+
+    $ npm install
+    $ node server.js
+
+You can specify the directory to store pages in using the `STORE`
+environment variable and the port to launch on using `PORT`.
+
 ## storage
 
 Pages are stored in the `./store` directory (or the one in the `STORE`
