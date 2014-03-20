@@ -2,6 +2,7 @@
   "name": "snapshot",
   "version": "0.0.0-alpha",
   "description": "keeps tiny snapshots of webpages",
+  "repository": "git://github.com/heyLu/snap",
   "dependencies": {
     "express": "^3.4.8"
   }
